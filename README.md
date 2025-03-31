@@ -23,7 +23,7 @@ TensorFlow
 
 PyTorch
 
-Hugging Face Transformers, NLP
+Hugging Face Transformers NLP
 
 📊 Model Performance:
 Training Accuracy: 98.47%
