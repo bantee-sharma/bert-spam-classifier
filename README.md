@@ -19,7 +19,8 @@ Deployment-ready for real-world applications
 
 Python
 
-TensorFlow/PyTorch
+TensorFlow
+PyTorch
 Hugging Face Transformers, NLP
 
 📊 Model Performance:
